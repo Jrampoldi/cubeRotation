@@ -1,1 +1,2 @@
 # cubeRotation
+Program written with the pygame library. Pygame must be installed before running program. This program will allow user to visually see a 3 dimensional object projected onto a 2 dimensional screen. What this program was designed to do, was give the programmer a better understanding of how to work with numpy, as well as 3d generated objects. All points go through a series of multiplications adjusting the points based on the rotation matrix, then will be multiplied with the projection matrix.
